@@ -5,7 +5,8 @@ authors = ["Jacob Sacco <jacobsacco@ou.edu>"]
 edition = "2018"
 description = "A package containing a generic error type that can be dropped in to simplify error handling"
 repository = "https://github.com/jacobsacco/rs_generic_error"
-
+license = "MIT"
+license-file = "License.md"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
