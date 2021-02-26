@@ -2,8 +2,9 @@
 use std::error;
 use std::fmt;
 use std::convert;
+use std::clone::Clone;
 
-
+#[derive(Clone)]
 pub struct GenericError {
 	pub msg: String,
 }
